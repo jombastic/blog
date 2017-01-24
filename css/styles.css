@@ -5,10 +5,12 @@
   width: 60%;
   font-family: sans-serif;
   line-height: 20px;
+  margin-top: 50px;
+  margin-bottom: 100px;
 }
 
 .about-me {
   color: grey;
   text-align: center;
-  width: 50%;  
+  width: 50%;
 }
